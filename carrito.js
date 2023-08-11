@@ -121,3 +121,5 @@ if (seleccionModelo >= 1 && seleccionModelo <= 4) {
 
 const continuar = confirm("¿Desea agregar más productos al carrito?");
  while (continuar);
+
+
